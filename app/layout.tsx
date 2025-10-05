@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     images: ['/hero-v2.png'],
   },
   icons: {
-    icon: '/favicon.ico',
+    icon: '/logo.jpg',
   },
 }
 
