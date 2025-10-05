@@ -114,3 +114,4 @@ npm run dev:ip
 ¡El fondo ahora se acumula hacia la derecha, dejando el lado izquierdo limpio para el texto! 🎨✨
 
 
+

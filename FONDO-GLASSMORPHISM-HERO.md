@@ -94,3 +94,4 @@ El fondo glassmorphism de la Hero section está completamente implementado con:
 ¡El efecto visual es impresionante y completamente funcional! 🎨✨
 
 
+

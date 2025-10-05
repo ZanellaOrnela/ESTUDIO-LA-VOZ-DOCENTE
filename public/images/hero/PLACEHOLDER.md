@@ -88,3 +88,4 @@ className="relative w-72 h-80 md:w-80 md:h-96"
 
 ¡Una vez que agregues la imagen, se mostrará perfectamente integrada con el diseño glassmorphism! 🎨📸
 
+

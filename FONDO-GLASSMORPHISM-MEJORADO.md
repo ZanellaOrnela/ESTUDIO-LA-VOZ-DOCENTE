@@ -84,3 +84,4 @@ npm run dev:ip
 ¡El fondo ahora es mucho más llamativo, dinámico y con predominio del color amarillo como solicitaste! 🎨✨
 
 
+

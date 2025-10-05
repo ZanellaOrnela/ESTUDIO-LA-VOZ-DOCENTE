@@ -30,3 +30,4 @@ const AnimatedSection = ({ children, className = '', delay = 0 }: AnimatedSectio
 export default AnimatedSection
 
 
+
