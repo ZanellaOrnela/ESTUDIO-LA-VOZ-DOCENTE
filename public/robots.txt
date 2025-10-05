@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /login/
+
+Allow: /
+
+Sitemap: https://lavozdocente.com/sitemap.xml
+
+
