@@ -23,12 +23,6 @@ const Services = () => {
       title: 'Cobro de Indemnizaciones',
       description: 'Indemnizaciones por Incapacidad: Acompañamiento en el cálculo y cobro de la compensación económica total que te corresponde por la incapacidad generada por la disfonía.',
       color: 'verde-900'
-    },
-    {
-      icon: FileText,
-      title: 'Defensa Laboral Docente',
-      description: 'Defensa especializada en despidos, sumarios injustificados y conflictos relacionados con tu salud y estabilidad laboral docente.',
-      color: 'naranja-500'
     }
   ]
 
@@ -79,11 +73,11 @@ const Services = () => {
             ÁREAS DE PRÁCTICA
           </h2>
           <p className="text-xl md:text-2xl text-gris-600 max-w-4xl mx-auto mb-12 font-medium">
-            Tres pilares para proteger tu salud laboral y tus derechos.
+            Dos pilares fundamentales para proteger tu salud laboral y tus derechos.
           </p>
         </AnimatedSection>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-16">
           {services.map((service, index) => {
             const IconComponent = service.icon
             return (
