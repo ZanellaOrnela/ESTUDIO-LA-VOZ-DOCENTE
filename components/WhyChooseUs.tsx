@@ -8,7 +8,7 @@ const WhyChooseUs = () => {
     {
       icon: MessageCircle,
       title: 'Claridad y Comunicación Continua',
-      description: 'Le explicamos cada paso con lenguaje simple y mantenemos actualización constante por WhatsApp y teléfono.'
+      description: 'Te explicamos cada paso con lenguaje simple y mantenemos actualización constante por WhatsApp y teléfono.'
     },
     {
       icon: Target,
@@ -18,7 +18,7 @@ const WhyChooseUs = () => {
     {
       icon: DollarSign,
       title: 'Enfoque Estratégico y Tarifas Transparentes',
-      description: 'Trabajamos con cuota litis: solo cobramos si usted gana.'
+      description: 'Trabajamos con cuota litis: solo cobramos si ganás.'
     }
   ]
 

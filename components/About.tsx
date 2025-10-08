@@ -12,7 +12,7 @@ const About = () => {
             QUIÉNES SOMOS
           </h2>
           <p className="text-xl md:text-2xl text-gris-600 max-w-4xl mx-auto font-medium">
-            Nuestro Compromiso Nace de la Experiencia. Conozca a los profesionales que entienden la ley y la realidad de la docencia en Argentina.
+            Nuestro Compromiso Nace de la Experiencia. Conocé a los profesionales que entienden la ley y la realidad de la docencia en Argentina.
           </p>
         </AnimatedSection>
 
@@ -27,7 +27,7 @@ const About = () => {
                 <h3 className="text-3xl font-anton text-gris-800 tracking-wide">Nuestra Misión</h3>
               </div>
               <p className="text-gris-600 text-xl leading-relaxed font-medium">
-                Ser la voz legal que cada docente necesita, garantizando el reconocimiento y la reparación integral por el desgaste de su labor.
+                Ser la voz legal que cada docente necesita, garantizando el reconocimiento y la reparación integral por el desgaste de tu labor.
               </p>
             </AnimatedSection>
 
@@ -90,7 +90,7 @@ const About = () => {
               </div>
               <h4 className="text-2xl font-anton text-gris-800 mb-4 tracking-wide">Dedicación</h4>
               <p className="text-gris-600 text-lg font-medium">
-                Seguimiento constante y personalizado en cada etapa de su caso.
+                Seguimiento constante y personalizado en cada etapa de tu caso.
               </p>
             </div>
           </div>

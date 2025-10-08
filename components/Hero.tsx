@@ -201,9 +201,9 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-gris-600 mb-6 leading-relaxed font-medium">
-            Su voz es su herramienta de trabajo. Si se ve afectada, la ley lo ampara. 
-            Lo acompañamos para que su disfonía sea reconocida como enfermedad profesional 
-            y reciba la compensación que corresponde.
+            Tu voz es tu herramienta de trabajo. Si se ve afectada, la ley te ampara. 
+            Te acompañamos para que tu disfonía sea reconocida como enfermedad profesional 
+            y recibas la compensación que corresponde.
           </p>
 
 

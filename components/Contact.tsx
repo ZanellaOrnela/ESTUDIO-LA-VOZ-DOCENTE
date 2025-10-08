@@ -24,10 +24,10 @@ const Contact = () => {
       <div className="container-custom">
         <AnimatedSection className="text-center mb-20">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-anton text-gris-800 mb-8 tracking-wide">
-            COMIENCE HOY MISMO. AGENDE SU CONSULTA CONFIDENCIAL
+            EMPEZÁ HOY MISMO. AGENDÁ TU CONSULTA CONFIDENCIAL
           </h2>
           <p className="text-xl md:text-2xl text-gris-600 max-w-4xl mx-auto font-medium">
-            Respuesta en menos de 24 horas. Su consulta es confidencial.
+            Respuesta en menos de 24 horas. Tu consulta es confidencial.
           </p>
         </AnimatedSection>
 
@@ -39,8 +39,8 @@ const Contact = () => {
                 Solicitar Evaluación Gratuita de Caso
               </h3>
               <p className="text-gris-600 mb-8 text-lg font-medium">
-                No espere a que avance el problema. Una consulta a tiempo es el primer paso. 
-                Complete el formulario y recibirá una evaluación gratuita de su situación.
+                No esperes a que avance el problema. Una consulta a tiempo es el primer paso. 
+                Completá el formulario y recibirás una evaluación gratuita de tu situación.
               </p>
                 <p className="text-sm text-gris-500 font-medium">
                   Respondemos en menos de 24 horas hábiles.
@@ -63,7 +63,7 @@ const Contact = () => {
                     id="name"
                     name="name"
                     required
-                    placeholder="Su Nombre Completo"
+                    placeholder="Tu Nombre Completo"
                     className="form-input w-full"
                   />
                 </div>
@@ -77,7 +77,7 @@ const Contact = () => {
                     id="email"
                     name="email"
                     required
-                    placeholder="Su Correo Electrónico"
+                    placeholder="Tu Correo Electrónico"
                     className="form-input w-full"
                   />
                 </div>
@@ -91,7 +91,7 @@ const Contact = () => {
                     id="phone"
                     name="phone"
                     required
-                    placeholder="Su Número de Teléfono (WhatsApp)"
+                    placeholder="Tu Número de Teléfono (WhatsApp)"
                     className="form-input w-full"
                   />
                 </div>
@@ -106,7 +106,7 @@ const Contact = () => {
                     required
                     rows={4}
                     maxLength={500}
-                    placeholder="Describa Brevemente su Caso (Máx. 500 caracteres)"
+                    placeholder="Describí Brevemente tu Caso (Máx. 500 caracteres)"
                     className="form-textarea w-full"
                   />
                 </div>
@@ -133,7 +133,7 @@ const Contact = () => {
                 </button>
 
                 <p className="text-sm text-gris-500 text-center font-medium">
-                  Su consulta será procesada de forma segura por FormSubmit para garantizar la confidencialidad.
+                  Tu consulta será procesada de forma segura por FormSubmit para garantizar la confidencialidad.
                 </p>
               </form>
             ) : (
@@ -145,7 +145,7 @@ const Contact = () => {
                   ¡Solicitud Enviada!
                 </h3>
                 <p className="text-gris-600 text-lg font-medium">
-                  Hemos recibido su consulta. Nos pondremos en contacto con usted en menos de 24 horas hábiles.
+                  Hemos recibido tu consulta. Nos pondremos en contacto con vos en menos de 24 horas hábiles.
                 </p>
               </div>
             )}
@@ -218,10 +218,10 @@ const Contact = () => {
 
             <AnimatedSection className="glass-card p-10 glass-shine" delay={250}>
               <h3 className="text-2xl font-anton text-gris-800 mb-6 tracking-wide">
-                ¿Necesita Ayuda Urgente?
+                ¿Necesitás Ayuda Urgente?
               </h3>
               <p className="text-gris-600 mb-8 text-lg font-medium">
-                ¿Urgente? Escríbanos por WhatsApp y le respondemos al instante.
+                ¿Urgente? Escribinos por WhatsApp y te respondemos al instante.
               </p>
               <a
                 href="https://wa.me/541124515788?text=Hola,%20necesito%20asesoramiento%20legal%20para%20mi%20caso%20de%20disfonía"

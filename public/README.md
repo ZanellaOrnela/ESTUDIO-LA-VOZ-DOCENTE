@@ -176,3 +176,5 @@ module.exports = nextConfig
 ¡Guarda todas tus imágenes en esta carpeta y úsalas con rutas que empiecen con `/`! 🎨📁
 
 
+
+

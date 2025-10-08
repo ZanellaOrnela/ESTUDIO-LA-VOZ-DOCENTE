@@ -139,3 +139,5 @@ Desktop: 384x500px     /* w-96 h-[500px] */
 ¡La foto está perfectamente implementada en la Hero section, posicionada a la derecha y por encima del fondo glassmorphism! 🎨📸
 
 
+
+

@@ -15,19 +15,19 @@ const Services = () => {
     {
       icon: Mic,
       title: 'Reconocimiento de Disfonía',
-      description: 'Disfonía como Enfermedad Profesional: Asesoramiento y gestión integral para que su afección vocal sea reconocida legalmente. Defensa efectiva ante ARTs y Comisiones Médicas.',
+      description: 'Disfonía como Enfermedad Profesional: Asesoramiento y gestión integral para que tu afección vocal sea reconocida legalmente. Defensa efectiva ante ARTs y Comisiones Médicas.',
       color: 'naranja-500'
     },
     {
       icon: DollarSign,
       title: 'Cobro de Indemnizaciones',
-      description: 'Indemnizaciones por Incapacidad: Acompañamiento en el cálculo y cobro de la compensación económica total que le corresponde por la incapacidad generada por la disfonía.',
+      description: 'Indemnizaciones por Incapacidad: Acompañamiento en el cálculo y cobro de la compensación económica total que te corresponde por la incapacidad generada por la disfonía.',
       color: 'verde-900'
     },
     {
       icon: FileText,
-      title: 'Asesoría Legal Docente Integral',
-      description: 'Asesoría Laboral General: Defensa en despidos, sumarios injustificados y conflictos relacionados con su salud y estabilidad laboral.',
+      title: 'Defensa Laboral Docente',
+      description: 'Defensa especializada en despidos, sumarios injustificados y conflictos relacionados con tu salud y estabilidad laboral docente.',
       color: 'naranja-500'
     }
   ]
@@ -79,7 +79,7 @@ const Services = () => {
             ÁREAS DE PRÁCTICA
           </h2>
           <p className="text-xl md:text-2xl text-gris-600 max-w-4xl mx-auto mb-12 font-medium">
-            Tres pilares para proteger su salud laboral y sus derechos.
+            Tres pilares para proteger tu salud laboral y tus derechos.
           </p>
         </AnimatedSection>
 
@@ -106,10 +106,10 @@ const Services = () => {
         <div className="text-center">
           <AnimatedSection className="glass-card p-12 max-w-3xl mx-auto glass-shine" delay={150}>
             <h3 className="text-3xl font-anton text-gris-800 mb-6 tracking-wide">
-              ¿Necesita Asesoramiento Específico?
+              ¿Necesitás Asesoramiento Específico?
             </h3>
             <p className="text-gris-600 mb-8 text-xl font-medium">
-              Cada caso es único. Contáctenos para una evaluación personalizada de su situación y conocer todos los servicios disponibles.
+              Cada caso es único. Contactanos para una evaluación personalizada de tu situación y conocer todos los servicios disponibles.
             </p>
             <button
               onClick={scrollToContact}
