@@ -191,7 +191,7 @@ const Hero = () => {
         <div className="text-left w-full lg:w-1/2 mx-0">
           {/* Main Headline */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-anton text-gris-800 mb-2 leading-tight tracking-wide">
-            SU TRANQUILIDAD ES NUESTRA 
+            TU TRANQUILIDAD ES NUESTRA 
             <span className="text-gradient block">MATERIA</span>
           </h1>
           

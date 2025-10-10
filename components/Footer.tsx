@@ -48,7 +48,7 @@ const Footer = () => {
             <div className="space-y-4">
               <h3 className="text-lg font-anton tracking-wide text-white">Síganos</h3>
               <p className="text-white/90 mb-4 font-medium">
-                Manténgase informado sobre sus derechos
+                Mantenete informado sobre tus derechos
               </p>
               <a
                 href="https://instagram.com/voz_docente"
